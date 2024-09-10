@@ -1,4 +1,4 @@
-This project demonstrates the Strategy Pattern in Go by implementing multiple storage strategies (MongoDB and Postgres) for handling numbers. The Strategy Pattern allows you to define a family of algorithms (or in this case, storage mechanisms), encapsulate each one as a strategy, and make them interchangeable at runtime.
+This code demonstrates the Strategy Pattern in Go by implementing multiple storage strategies (MongoDB and Postgres) for handling numbers. The Strategy Pattern allows you to define a family of algorithms (or in this case, storage mechanisms), encapsulate each one as a strategy, and make them interchangeable at runtime.
 
 ### What is the Strategy Pattern?
 The Strategy Pattern is a behavioral design pattern that allows you to define different algorithms, encapsulate them, and make them interchangeable at runtime. This pattern decouples the algorithm from the client, meaning that the client doesn’t need to know which specific implementation it’s using.
