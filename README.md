@@ -1,0 +1,1 @@
+This project demonstrates the Strategy Pattern in Go by implementing multiple storage strategies (MongoDB and Postgres) for handling numbers. The Strategy Pattern allows you to define a family of algorithms (or in this case, storage mechanisms), encapsulate each one as a strategy, and make them interchangeable at runtime.
